@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dualsense_support", "dualsense_support\dualsense_support.csproj", "{365CD823-ADA8-438A-B2DA-EB34E377FCA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weapon_filler", "weapon_filler\weapon_filler.csproj", "{D7CA23CF-30C8-487C-AF18-3F190A3D490A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365CD823-ADA8-438A-B2DA-EB34E377FCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365CD823-ADA8-438A-B2DA-EB34E377FCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365CD823-ADA8-438A-B2DA-EB34E377FCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365CD823-ADA8-438A-B2DA-EB34E377FCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CA23CF-30C8-487C-AF18-3F190A3D490A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CA23CF-30C8-487C-AF18-3F190A3D490A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CA23CF-30C8-487C-AF18-3F190A3D490A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CA23CF-30C8-487C-AF18-3F190A3D490A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

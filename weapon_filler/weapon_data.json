@@ -1,0 +1,1962 @@
+[
+  {
+    "Id": 110000,
+    "Name": "Unarmed",
+    "Instructions": null
+  },
+  {
+    "Id": 1000000,
+    "Name": "Dagger",
+    "Instructions": null
+  },
+  {
+    "Id": 1010000,
+    "Name": "Black Knife",
+    "Instructions": null
+  },
+  {
+    "Id": 1020000,
+    "Name": "Parrying Dagger",
+    "Instructions": null
+  },
+  {
+    "Id": 1030000,
+    "Name": "Misericorde",
+    "Instructions": null
+  },
+  {
+    "Id": 1040000,
+    "Name": "Reduvia",
+    "Instructions": null
+  },
+  {
+    "Id": 1140000,
+    "Name": "Bloodstained Dagger",
+    "Instructions": null
+  },
+  {
+    "Id": 1050000,
+    "Name": "Crystal Knife",
+    "Instructions": null
+  },
+  {
+    "Id": 1070000,
+    "Name": "Glintstone Kris",
+    "Instructions": null
+  },
+  {
+    "Id": 1080000,
+    "Name": "Scorpion's Stinger",
+    "Instructions": null
+  },
+  {
+    "Id": 1090000,
+    "Name": "Great Knife",
+    "Instructions": null
+  },
+  {
+    "Id": 1100000,
+    "Name": "Wakizashi",
+    "Instructions": null
+  },
+  {
+    "Id": 1130000,
+    "Name": "Ivory Sickle",
+    "Instructions": null
+  },
+  {
+    "Id": 1150000,
+    "Name": "Erdsteel Dagger",
+    "Instructions": null
+  },
+  {
+    "Id": 1160000,
+    "Name": "Blade of Calling",
+    "Instructions": null
+  },
+  {
+    "Id": 2010000,
+    "Name": "Short Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2020000,
+    "Name": "Broadsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3080000,
+    "Name": "Banished Knight's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3070000,
+    "Name": "Alabaster Lord's Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 5010000,
+    "Name": "Cleanrot Knight's Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 4010000,
+    "Name": "Watchdog's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 2230000,
+    "Name": "Noble's Slender Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 3140000,
+    "Name": "Blasphemous Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 2050000,
+    "Name": "Weathered Straight Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2060000,
+    "Name": "Ornamental Straight Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2070000,
+    "Name": "Golden Epitaph",
+    "Instructions": null
+  },
+  {
+    "Id": 2080000,
+    "Name": "Nox Flowing Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2220000,
+    "Name": "Regalia of Eochaid",
+    "Instructions": null
+  },
+  {
+    "Id": 2110000,
+    "Name": "Coded Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2140000,
+    "Name": "Sword of Night and Flame",
+    "Instructions": null
+  },
+  {
+    "Id": 2150000,
+    "Name": "Crystal Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2180000,
+    "Name": "Carian Knight's Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2210000,
+    "Name": "Cane Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2200000,
+    "Name": "Miquellan Knight's Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2190000,
+    "Name": "Sword of St. Trina",
+    "Instructions": null
+  },
+  {
+    "Id": 2240000,
+    "Name": "Warhawk's Talon",
+    "Instructions": null
+  },
+  {
+    "Id": 2250000,
+    "Name": "Lazuli Glintstone Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 2260000,
+    "Name": "Rotten Crystal Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 5020000,
+    "Name": "Rapier",
+    "Instructions": null
+  },
+  {
+    "Id": 5030000,
+    "Name": "Rogier's Rapier",
+    "Instructions": null
+  },
+  {
+    "Id": 5060000,
+    "Name": "Noble's Estoc",
+    "Instructions": null
+  },
+  {
+    "Id": 5040000,
+    "Name": "Antspur Rapier",
+    "Instructions": null
+  },
+  {
+    "Id": 5050000,
+    "Name": "Frozen Needle",
+    "Instructions": null
+  },
+  {
+    "Id": 5000000,
+    "Name": "Estoc",
+    "Instructions": null
+  },
+  {
+    "Id": 6010000,
+    "Name": "Godskin Stitcher",
+    "Instructions": null
+  },
+  {
+    "Id": 6000000,
+    "Name": "Bloody Helice",
+    "Instructions": null
+  },
+  {
+    "Id": 6020000,
+    "Name": "Great epee",
+    "Instructions": null
+  },
+  {
+    "Id": 6040000,
+    "Name": "Dragon King's Cragblade",
+    "Instructions": null
+  },
+  {
+    "Id": 7140000,
+    "Name": "Scimitar",
+    "Instructions": null
+  },
+  {
+    "Id": 7000000,
+    "Name": "Falchion",
+    "Instructions": null
+  },
+  {
+    "Id": 7020000,
+    "Name": "Shotel",
+    "Instructions": null
+  },
+  {
+    "Id": 8010000,
+    "Name": "Onyx Lord's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 14010000,
+    "Name": "Forked Hatchet",
+    "Instructions": null
+  },
+  {
+    "Id": 7030000,
+    "Name": "Shamshir",
+    "Instructions": null
+  },
+  {
+    "Id": 7040000,
+    "Name": "Bandit's Curved Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 8070000,
+    "Name": "Monk's Flameblade",
+    "Instructions": null
+  },
+  {
+    "Id": 7050000,
+    "Name": "Magma Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 1060000,
+    "Name": "Celebrant's Sickle",
+    "Instructions": null
+  },
+  {
+    "Id": 1110000,
+    "Name": "Cinquedea",
+    "Instructions": null
+  },
+  {
+    "Id": 7060000,
+    "Name": "Flowing Curved Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 7070000,
+    "Name": "Wing of Astel",
+    "Instructions": null
+  },
+  {
+    "Id": 7080000,
+    "Name": "Scavenger's Curved Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 7100000,
+    "Name": "Eclipse Shotel",
+    "Instructions": null
+  },
+  {
+    "Id": 7110000,
+    "Name": "Serpent-God's Curved Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 7120000,
+    "Name": "Mantis Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 7150000,
+    "Name": "Grossmesser",
+    "Instructions": null
+  },
+  {
+    "Id": 8020000,
+    "Name": "Dismounter",
+    "Instructions": null
+  },
+  {
+    "Id": 8030000,
+    "Name": "Bloodhound's Fang",
+    "Instructions": null
+  },
+  {
+    "Id": 4050000,
+    "Name": "Starscourge Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 8040000,
+    "Name": "Magma Wyrm's Scalesword",
+    "Instructions": null
+  },
+  {
+    "Id": 8050000,
+    "Name": "Zamor Curved Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 8060000,
+    "Name": "Omen Cleaver",
+    "Instructions": null
+  },
+  {
+    "Id": 8100000,
+    "Name": "Morgott's Cursed Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 7010000,
+    "Name": "Beastman's Curved Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 8080000,
+    "Name": "Beastman's Cleaver",
+    "Instructions": null
+  },
+  {
+    "Id": 9000000,
+    "Name": "Uchigatana",
+    "Instructions": null
+  },
+  {
+    "Id": 9010000,
+    "Name": "Nagakiba",
+    "Instructions": null
+  },
+  {
+    "Id": 9020000,
+    "Name": "Hand of Malenia",
+    "Instructions": null
+  },
+  {
+    "Id": 9030000,
+    "Name": "Meteoric Ore Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 9040000,
+    "Name": "Rivers of Blood",
+    "Instructions": null
+  },
+  {
+    "Id": 9060000,
+    "Name": "Moonveil",
+    "Instructions": null
+  },
+  {
+    "Id": 9080000,
+    "Name": "Serpentbone Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 9070000,
+    "Name": "Dragonscale Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 3000000,
+    "Name": "Bastard Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 3180000,
+    "Name": "Claymore",
+    "Instructions": null
+  },
+  {
+    "Id": 4060000,
+    "Name": "Royal Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 4020000,
+    "Name": "Maliketh's Black Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 3010000,
+    "Name": "Forked Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3020000,
+    "Name": "Iron Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3030000,
+    "Name": "Lordsworn's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 4030000,
+    "Name": "Troll's Golden Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 3040000,
+    "Name": "Knight's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3050000,
+    "Name": "Flamberge",
+    "Instructions": null
+  },
+  {
+    "Id": 4040000,
+    "Name": "Zweihander",
+    "Instructions": null
+  },
+  {
+    "Id": 4000000,
+    "Name": "Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3060000,
+    "Name": "Ordovis's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 2090000,
+    "Name": "Inseparable Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 3090000,
+    "Name": "Dark Moon Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3100000,
+    "Name": "Sacred Relic Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 3130000,
+    "Name": "Helphen's Steeple",
+    "Instructions": null
+  },
+  {
+    "Id": 4070000,
+    "Name": "Godslayer's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 4080000,
+    "Name": "Ruins Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3150000,
+    "Name": "Marais Executioner's Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 4100000,
+    "Name": "Grafted Blade Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3170000,
+    "Name": "Golden Order Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 3160000,
+    "Name": "Sword of Milos",
+    "Instructions": null
+  },
+  {
+    "Id": 3190000,
+    "Name": "Gargoyle's Greatsword",
+    "Instructions": null
+  },
+  {
+    "Id": 4110000,
+    "Name": "Troll Knight's Sword",
+    "Instructions": null
+  },
+  {
+    "Id": 3200000,
+    "Name": "Death's Poker",
+    "Instructions": null
+  },
+  {
+    "Id": 3210000,
+    "Name": "Gargoyle's Blackblade",
+    "Instructions": null
+  },
+  {
+    "Id": 14020000,
+    "Name": "Hand Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 14000000,
+    "Name": "Battle Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 14030000,
+    "Name": "Jawbone Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 14040000,
+    "Name": "Iron Cleaver",
+    "Instructions": null
+  },
+  {
+    "Id": 14050000,
+    "Name": "Ripple Blade",
+    "Instructions": null
+  },
+  {
+    "Id": 14060000,
+    "Name": "Celebrant's Cleaver",
+    "Instructions": null
+  },
+  {
+    "Id": 15010000,
+    "Name": "Warped Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 15020000,
+    "Name": "Great Omenkiller Cleaver",
+    "Instructions": null
+  },
+  {
+    "Id": 15060000,
+    "Name": "Rusted Anchor",
+    "Instructions": null
+  },
+  {
+    "Id": 14080000,
+    "Name": "Icerind Hatchet",
+    "Instructions": null
+  },
+  {
+    "Id": 14100000,
+    "Name": "Highland Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 14110000,
+    "Name": "Sacrificial Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 14120000,
+    "Name": "Rosus' Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 14140000,
+    "Name": "Stormhawk Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 15000000,
+    "Name": "Greataxe",
+    "Instructions": null
+  },
+  {
+    "Id": 15030000,
+    "Name": "Crescent Moon Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 15110000,
+    "Name": "Winged Greathorn",
+    "Instructions": null
+  },
+  {
+    "Id": 23040000,
+    "Name": "Duelist Greataxe",
+    "Instructions": null
+  },
+  {
+    "Id": 23050000,
+    "Name": "Axe of Godfrey",
+    "Instructions": null
+  },
+  {
+    "Id": 15040000,
+    "Name": "Axe of Godrick",
+    "Instructions": null
+  },
+  {
+    "Id": 15080000,
+    "Name": "Executioner's Greataxe",
+    "Instructions": null
+  },
+  {
+    "Id": 15120000,
+    "Name": "Butchering Knife",
+    "Instructions": null
+  },
+  {
+    "Id": 15130000,
+    "Name": "Gargoyle's Great Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 15140000,
+    "Name": "Gargoyle's Black Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 11010000,
+    "Name": "Club",
+    "Instructions": null
+  },
+  {
+    "Id": 11000000,
+    "Name": "Mace",
+    "Instructions": null
+  },
+  {
+    "Id": 12010000,
+    "Name": "Greathorn Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 12020000,
+    "Name": "Battle Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 11030000,
+    "Name": "Curved Club",
+    "Instructions": null
+  },
+  {
+    "Id": 11090000,
+    "Name": "Monk's Flamemace",
+    "Instructions": null
+  },
+  {
+    "Id": 23010000,
+    "Name": "Watchdog's Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 11040000,
+    "Name": "Warpick",
+    "Instructions": null
+  },
+  {
+    "Id": 11050000,
+    "Name": "Morning Star",
+    "Instructions": null
+  },
+  {
+    "Id": 11060000,
+    "Name": "Varre's Bouquet",
+    "Instructions": null
+  },
+  {
+    "Id": 11070000,
+    "Name": "Spiked Club",
+    "Instructions": null
+  },
+  {
+    "Id": 11080000,
+    "Name": "Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 11110000,
+    "Name": "Scepter of the All-Knowing",
+    "Instructions": null
+  },
+  {
+    "Id": 11120000,
+    "Name": "Nox Flowing Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 11130000,
+    "Name": "Ringed Finger",
+    "Instructions": null
+  },
+  {
+    "Id": 11140000,
+    "Name": "Stone Club",
+    "Instructions": null
+  },
+  {
+    "Id": 11150000,
+    "Name": "Marika's Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 12000000,
+    "Name": "Large Club",
+    "Instructions": null
+  },
+  {
+    "Id": 23020000,
+    "Name": "Great Club",
+    "Instructions": null
+  },
+  {
+    "Id": 12060000,
+    "Name": "Great Mace",
+    "Instructions": null
+  },
+  {
+    "Id": 23060000,
+    "Name": "Dragon Greatclaw",
+    "Instructions": null
+  },
+  {
+    "Id": 12080000,
+    "Name": "Curved Great Club",
+    "Instructions": null
+  },
+  {
+    "Id": 23000000,
+    "Name": "Prelate's Inferno Crozier",
+    "Instructions": null
+  },
+  {
+    "Id": 12130000,
+    "Name": "Celebrant's Skull",
+    "Instructions": null
+  },
+  {
+    "Id": 12140000,
+    "Name": "Pickaxe",
+    "Instructions": null
+  },
+  {
+    "Id": 12150000,
+    "Name": "Beastclaw Greathammer",
+    "Instructions": null
+  },
+  {
+    "Id": 12170000,
+    "Name": "Cranial Vessel Candlestand",
+    "Instructions": null
+  },
+  {
+    "Id": 12180000,
+    "Name": "Great Stars",
+    "Instructions": null
+  },
+  {
+    "Id": 12190000,
+    "Name": "Brick Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 23070000,
+    "Name": "Staff of the Avatar",
+    "Instructions": null
+  },
+  {
+    "Id": 23080000,
+    "Name": "Fallingstar Beast Jaw",
+    "Instructions": null
+  },
+  {
+    "Id": 23100000,
+    "Name": "Ghiza's Wheel",
+    "Instructions": null
+  },
+  {
+    "Id": 23110000,
+    "Name": "Giant-Crusher",
+    "Instructions": null
+  },
+  {
+    "Id": 12200000,
+    "Name": "Devourer's Scepter",
+    "Instructions": null
+  },
+  {
+    "Id": 23130000,
+    "Name": "Troll's Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 23140000,
+    "Name": "Rotten Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 23150000,
+    "Name": "Rotten Greataxe",
+    "Instructions": null
+  },
+  {
+    "Id": 12210000,
+    "Name": "Rotten Battle Hammer",
+    "Instructions": null
+  },
+  {
+    "Id": 16010000,
+    "Name": "Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 16020000,
+    "Name": "Crystal Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 18110000,
+    "Name": "Guardian's Swordspear",
+    "Instructions": null
+  },
+  {
+    "Id": 16030000,
+    "Name": "Clayman's Harpoon",
+    "Instructions": null
+  },
+  {
+    "Id": 16040000,
+    "Name": "Cleanrot Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 18010000,
+    "Name": "Pest's Glaive",
+    "Instructions": null
+  },
+  {
+    "Id": 17010000,
+    "Name": "Mohgwyn's Sacred Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 16150000,
+    "Name": "Iron Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 16050000,
+    "Name": "Partisan",
+    "Instructions": null
+  },
+  {
+    "Id": 16060000,
+    "Name": "Celebrant's Rib-Rake",
+    "Instructions": null
+  },
+  {
+    "Id": 16070000,
+    "Name": "Pike",
+    "Instructions": null
+  },
+  {
+    "Id": 17020000,
+    "Name": "Siluria's Tree",
+    "Instructions": null
+  },
+  {
+    "Id": 16090000,
+    "Name": "Bolt of Gransax",
+    "Instructions": null
+  },
+  {
+    "Id": 16110000,
+    "Name": "Cross-Naginata",
+    "Instructions": null
+  },
+  {
+    "Id": 16120000,
+    "Name": "Death Ritual Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 16130000,
+    "Name": "Inquisitor's Girandole",
+    "Instructions": null
+  },
+  {
+    "Id": 17030000,
+    "Name": "Serpent-Hunter",
+    "Instructions": null
+  },
+  {
+    "Id": 17050000,
+    "Name": "Vyke's War Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 17060000,
+    "Name": "Lance",
+    "Instructions": null
+  },
+  {
+    "Id": 17070000,
+    "Name": "Treespear",
+    "Instructions": null
+  },
+  {
+    "Id": 18020000,
+    "Name": "Lucerne",
+    "Instructions": null
+  },
+  {
+    "Id": 18030000,
+    "Name": "Banished Knight's Halberd",
+    "Instructions": null
+  },
+  {
+    "Id": 18040000,
+    "Name": "Commander's Standard",
+    "Instructions": null
+  },
+  {
+    "Id": 18050000,
+    "Name": "Nightrider Glaive",
+    "Instructions": null
+  },
+  {
+    "Id": 15050000,
+    "Name": "Longhaft Axe",
+    "Instructions": null
+  },
+  {
+    "Id": 18060000,
+    "Name": "Ripple Crescent Halberd",
+    "Instructions": null
+  },
+  {
+    "Id": 18070000,
+    "Name": "Vulgar Militia Saw",
+    "Instructions": null
+  },
+  {
+    "Id": 23120000,
+    "Name": "Golem's Halberd",
+    "Instructions": null
+  },
+  {
+    "Id": 18080000,
+    "Name": "Golden Halberd",
+    "Instructions": null
+  },
+  {
+    "Id": 18090000,
+    "Name": "Glaive",
+    "Instructions": null
+  },
+  {
+    "Id": 18100000,
+    "Name": "Loretta's War Sickle",
+    "Instructions": null
+  },
+  {
+    "Id": 16140000,
+    "Name": "Spiked Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 18140000,
+    "Name": "Dragon Halberd",
+    "Instructions": null
+  },
+  {
+    "Id": 18150000,
+    "Name": "Gargoyle's Halberd",
+    "Instructions": null
+  },
+  {
+    "Id": 16160000,
+    "Name": "Rotten Crystal Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 18160000,
+    "Name": "Gargoyle's Black Halberd",
+    "Instructions": null
+  },
+  {
+    "Id": 19000000,
+    "Name": "Scythe",
+    "Instructions": null
+  },
+  {
+    "Id": 19010000,
+    "Name": "Grave Scythe",
+    "Instructions": null
+  },
+  {
+    "Id": 19020000,
+    "Name": "Halo Scythe",
+    "Instructions": null
+  },
+  {
+    "Id": 18130000,
+    "Name": "Vulgar Militia Shotel",
+    "Instructions": null
+  },
+  {
+    "Id": 19060000,
+    "Name": "Winged Scythe",
+    "Instructions": null
+  },
+  {
+    "Id": 10000000,
+    "Name": "Twinblade",
+    "Instructions": null
+  },
+  {
+    "Id": 10010000,
+    "Name": "Godskin Peeler",
+    "Instructions": null
+  },
+  {
+    "Id": 10050000,
+    "Name": "Eleonora's Poleblade",
+    "Instructions": null
+  },
+  {
+    "Id": 10030000,
+    "Name": "Twinned Knight Swords",
+    "Instructions": null
+  },
+  {
+    "Id": 10080000,
+    "Name": "Gargoyle's Twinblade",
+    "Instructions": null
+  },
+  {
+    "Id": 10090000,
+    "Name": "Gargoyle's Black Blades",
+    "Instructions": null
+  },
+  {
+    "Id": 21000000,
+    "Name": "Caestus",
+    "Instructions": null
+  },
+  {
+    "Id": 22010000,
+    "Name": "Venomous Fang",
+    "Instructions": null
+  },
+  {
+    "Id": 22000000,
+    "Name": "Hookclaws",
+    "Instructions": null
+  },
+  {
+    "Id": 21010000,
+    "Name": "Spiked Caestus",
+    "Instructions": null
+  },
+  {
+    "Id": 22020000,
+    "Name": "Bloodhound Claws",
+    "Instructions": null
+  },
+  {
+    "Id": 21100000,
+    "Name": "Katar",
+    "Instructions": null
+  },
+  {
+    "Id": 21110000,
+    "Name": "Clinging Bone",
+    "Instructions": null
+  },
+  {
+    "Id": 21120000,
+    "Name": "Veteran's Prosthesis",
+    "Instructions": null
+  },
+  {
+    "Id": 21060000,
+    "Name": "Grafted Dragon",
+    "Instructions": null
+  },
+  {
+    "Id": 22030000,
+    "Name": "Raptor Talons",
+    "Instructions": null
+  },
+  {
+    "Id": 21070000,
+    "Name": "Iron Ball",
+    "Instructions": null
+  },
+  {
+    "Id": 21130000,
+    "Name": "Cipher Pata",
+    "Instructions": null
+  },
+  {
+    "Id": 21080000,
+    "Name": "Star Fist",
+    "Instructions": null
+  },
+  {
+    "Id": 20000000,
+    "Name": "Whip",
+    "Instructions": null
+  },
+  {
+    "Id": 20020000,
+    "Name": "Thorned Whip",
+    "Instructions": null
+  },
+  {
+    "Id": 20030000,
+    "Name": "Magma Whip Candlestick",
+    "Instructions": null
+  },
+  {
+    "Id": 20050000,
+    "Name": "Hoslow's Petal Whip",
+    "Instructions": null
+  },
+  {
+    "Id": 20060000,
+    "Name": "Giant's Red Braid",
+    "Instructions": null
+  },
+  {
+    "Id": 20070000,
+    "Name": "Urumi",
+    "Instructions": null
+  },
+  {
+    "Id": 13010000,
+    "Name": "Flail",
+    "Instructions": null
+  },
+  {
+    "Id": 13000000,
+    "Name": "Nightrider Flail",
+    "Instructions": null
+  },
+  {
+    "Id": 13020000,
+    "Name": "Family Heads",
+    "Instructions": null
+  },
+  {
+    "Id": 13030000,
+    "Name": "Bastard's Stars",
+    "Instructions": null
+  },
+  {
+    "Id": 13040000,
+    "Name": "Chainlink Flail",
+    "Instructions": null
+  },
+  {
+    "Id": 33040000,
+    "Name": "Crystal Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33050000,
+    "Name": "Gelmir Glintstone Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33060000,
+    "Name": "Demi-Human Queen's Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33000000,
+    "Name": "Glintstone Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33260000,
+    "Name": "Staff of the Guilty",
+    "Instructions": null
+  },
+  {
+    "Id": 33120000,
+    "Name": "Digger's Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33130000,
+    "Name": "Astrologer's Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33200000,
+    "Name": "Academy Glintstone Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33210000,
+    "Name": "Carian Glintstone Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33250000,
+    "Name": "Meteorite Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33090000,
+    "Name": "Carian Regal Scepter",
+    "Instructions": null
+  },
+  {
+    "Id": 33190000,
+    "Name": "Albinauric Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33180000,
+    "Name": "Prince of Death's Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33170000,
+    "Name": "Carian Glintblade Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33280000,
+    "Name": "Staff of Loss",
+    "Instructions": null
+  },
+  {
+    "Id": 34000000,
+    "Name": "Finger Seal",
+    "Instructions": null
+  },
+  {
+    "Id": 34010000,
+    "Name": "Godslayer's Seal",
+    "Instructions": null
+  },
+  {
+    "Id": 34020000,
+    "Name": "Giant's Seal",
+    "Instructions": null
+  },
+  {
+    "Id": 34030000,
+    "Name": "Gravel Stone Seal",
+    "Instructions": null
+  },
+  {
+    "Id": 34040000,
+    "Name": "Clawmark Seal",
+    "Instructions": null
+  },
+  {
+    "Id": 34060000,
+    "Name": "Golden Order Seal",
+    "Instructions": null
+  },
+  {
+    "Id": 33230000,
+    "Name": "Azur's Glintstone Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33240000,
+    "Name": "Lusat's Glintstone Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 33270000,
+    "Name": "Rotten Crystal Staff",
+    "Instructions": null
+  },
+  {
+    "Id": 40050000,
+    "Name": "Composite Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 40020000,
+    "Name": "Red Branch Shortbow",
+    "Instructions": null
+  },
+  {
+    "Id": 41010000,
+    "Name": "Albinauric Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 41020000,
+    "Name": "Horn Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 40010000,
+    "Name": "Misbegotten Shortbow",
+    "Instructions": null
+  },
+  {
+    "Id": 40000000,
+    "Name": "Shortbow",
+    "Instructions": null
+  },
+  {
+    "Id": 42010000,
+    "Name": "Golem Greatbow",
+    "Instructions": null
+  },
+  {
+    "Id": 42000000,
+    "Name": "Lion Greatbow",
+    "Instructions": null
+  },
+  {
+    "Id": 41000000,
+    "Name": "Longbow",
+    "Instructions": null
+  },
+  {
+    "Id": 40030000,
+    "Name": "Harp Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 41030000,
+    "Name": "Erdtree Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 41040000,
+    "Name": "Serpent Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 42030000,
+    "Name": "Erdtree Greatbow",
+    "Instructions": null
+  },
+  {
+    "Id": 41070000,
+    "Name": "Black Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 41060000,
+    "Name": "Pulley Bow",
+    "Instructions": null
+  },
+  {
+    "Id": 42040000,
+    "Name": "Greatbow",
+    "Instructions": null
+  },
+  {
+    "Id": 43000000,
+    "Name": "Soldier's Crossbow",
+    "Instructions": null
+  },
+  {
+    "Id": 43020000,
+    "Name": "Light Crossbow",
+    "Instructions": null
+  },
+  {
+    "Id": 43080000,
+    "Name": "Arbalest",
+    "Instructions": null
+  },
+  {
+    "Id": 43050000,
+    "Name": "Pulley Crossbow",
+    "Instructions": null
+  },
+  {
+    "Id": 44000000,
+    "Name": "Hand Ballista",
+    "Instructions": null
+  },
+  {
+    "Id": 44010000,
+    "Name": "Jar Cannon",
+    "Instructions": null
+  },
+  {
+    "Id": 43030000,
+    "Name": "Heavy Crossbow",
+    "Instructions": null
+  },
+  {
+    "Id": 43060000,
+    "Name": "Full Moon Crossbow",
+    "Instructions": null
+  },
+  {
+    "Id": 43110000,
+    "Name": "Crepus's Black-Key Crossbow",
+    "Instructions": null
+  },
+  {
+    "Id": 31020000,
+    "Name": "Marred Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31030000,
+    "Name": "Banished Knight's Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32040000,
+    "Name": "Dragonclaw Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31040000,
+    "Name": "Albinauric Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31050000,
+    "Name": "Sun Realm Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30030000,
+    "Name": "Rickety Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32290000,
+    "Name": "Wooden Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32020000,
+    "Name": "Distinguished Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32030000,
+    "Name": "Crucible Hornshield",
+    "Instructions": null
+  },
+  {
+    "Id": 31060000,
+    "Name": "Silver Mirrorshield",
+    "Instructions": null
+  },
+  {
+    "Id": 31070000,
+    "Name": "Round Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31330000,
+    "Name": "Heater Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31140000,
+    "Name": "Great Turtle Shell",
+    "Instructions": null
+  },
+  {
+    "Id": 31170000,
+    "Name": "Shield of the Guilty",
+    "Instructions": null
+  },
+  {
+    "Id": 31190000,
+    "Name": "Carian Knight's Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31100000,
+    "Name": "Blue-Gold Kite Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31080000,
+    "Name": "Scorpion Kite Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31090000,
+    "Name": "Twinbird Kite Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31000000,
+    "Name": "Kite Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31320000,
+    "Name": "Inverted Hawk Heater Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31310000,
+    "Name": "Eclipse Crest Heater Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31300000,
+    "Name": "Blue Crest Heater Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31290000,
+    "Name": "Red Crest Heater Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31280000,
+    "Name": "Beast Crest Heater Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31270000,
+    "Name": "Hawk Crest Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31260000,
+    "Name": "Flame Crest Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31250000,
+    "Name": "Candletree Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31240000,
+    "Name": "Horse Crest Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31230000,
+    "Name": "Large Leather Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 31340000,
+    "Name": "Black Leather Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30000000,
+    "Name": "Buckler",
+    "Instructions": null
+  },
+  {
+    "Id": 31010000,
+    "Name": "Marred Leather Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30010000,
+    "Name": "Perfumer's Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30020000,
+    "Name": "Man-Serpent's Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30040000,
+    "Name": "Pillory Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30070000,
+    "Name": "Red Thorn Roundshield",
+    "Instructions": null
+  },
+  {
+    "Id": 30080000,
+    "Name": "Scripture Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30090000,
+    "Name": "Riveted Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30100000,
+    "Name": "Blue-White Wooden Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30200000,
+    "Name": "Coil Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30190000,
+    "Name": "Spiralhorn Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30110000,
+    "Name": "Rift Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30120000,
+    "Name": "Iron Roundshield",
+    "Instructions": null
+  },
+  {
+    "Id": 30130000,
+    "Name": "Gilded Iron Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30140000,
+    "Name": "Ice Crest Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 30150000,
+    "Name": "Smoldering Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32050000,
+    "Name": "Briar Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 31130000,
+    "Name": "Brass Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32080000,
+    "Name": "Erdtree Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32090000,
+    "Name": "Golden Beast Crest Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32000000,
+    "Name": "Dragon Towershield",
+    "Instructions": null
+  },
+  {
+    "Id": 32120000,
+    "Name": "Jellyfish Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32130000,
+    "Name": "Fingerprint Stone Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32140000,
+    "Name": "Icon Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32150000,
+    "Name": "One-Eyed Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32170000,
+    "Name": "Spiked Palisade Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32160000,
+    "Name": "Visage Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 32190000,
+    "Name": "Manor Towershield",
+    "Instructions": null
+  },
+  {
+    "Id": 32200000,
+    "Name": "Crossed-Tree Towershield",
+    "Instructions": null
+  },
+  {
+    "Id": 32210000,
+    "Name": "Inverted Hawk Towershield",
+    "Instructions": null
+  },
+  {
+    "Id": 32220000,
+    "Name": "Ant's Skull Plate",
+    "Instructions": null
+  },
+  {
+    "Id": 32230000,
+    "Name": "Redmane Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32240000,
+    "Name": "Eclipse Crest Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32250000,
+    "Name": "Cuckoo Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32260000,
+    "Name": "Golden Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32270000,
+    "Name": "Gilded Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32280000,
+    "Name": "Haligtree Crest Greatshield",
+    "Instructions": null
+  },
+  {
+    "Id": 32300000,
+    "Name": "Lordsworn's Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 24000000,
+    "Name": "Torch",
+    "Instructions": null
+  },
+  {
+    "Id": 16080000,
+    "Name": "Torchpole",
+    "Instructions": null
+  },
+  {
+    "Id": 24020000,
+    "Name": "Steel-Wire Torch",
+    "Instructions": null
+  },
+  {
+    "Id": 24040000,
+    "Name": "St. Trina's Torch",
+    "Instructions": null
+  },
+  {
+    "Id": 24050000,
+    "Name": "Ghostflame Torch",
+    "Instructions": null
+  },
+  {
+    "Id": 24070000,
+    "Name": "Sentry's Torch",
+    "Instructions": null
+  },
+  {
+    "Id": 11100000,
+    "Name": "Envoy's Horn",
+    "Instructions": null
+  },
+  {
+    "Id": 12160000,
+    "Name": "Envoy's Long Horn",
+    "Instructions": null
+  },
+  {
+    "Id": 23030000,
+    "Name": "Envoy's Greathorn",
+    "Instructions": null
+  },
+  {
+    "Id": 30060000,
+    "Name": "Beastman's Jar-Shield",
+    "Instructions": null
+  },
+  {
+    "Id": 50000000,
+    "Name": "Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 50110000,
+    "Name": "Bone Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 50030000,
+    "Name": "Bone Arrow (Fletched)",
+    "Instructions": null
+  },
+  {
+    "Id": 50010000,
+    "Name": "Fire Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 50020000,
+    "Name": "Serpent Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 50100000,
+    "Name": "Dwelling Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 50040000,
+    "Name": "St. Trina's Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 50090000,
+    "Name": "Golden Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 51000000,
+    "Name": "Great Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 51010000,
+    "Name": "Golem's Great Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 51020000,
+    "Name": "Golden Great Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 51030000,
+    "Name": "Golem's Magic Arrow",
+    "Instructions": null
+  },
+  {
+    "Id": 51040000,
+    "Name": "Radahn's Spear",
+    "Instructions": null
+  },
+  {
+    "Id": 51050000,
+    "Name": "Bone Great Arrow (Fletched)",
+    "Instructions": null
+  },
+  {
+    "Id": 52000000,
+    "Name": "Bolt",
+    "Instructions": null
+  },
+  {
+    "Id": 52020000,
+    "Name": "Perfumer's Bolt",
+    "Instructions": null
+  },
+  {
+    "Id": 52030000,
+    "Name": "Black-Key Bolt",
+    "Instructions": null
+  },
+  {
+    "Id": 52090000,
+    "Name": "Bone Bolt",
+    "Instructions": null
+  },
+  {
+    "Id": 53000000,
+    "Name": "Ballista Bolt",
+    "Instructions": null
+  },
+  {
+    "Id": 53010000,
+    "Name": "Lightning Greatbolt",
+    "Instructions": null
+  },
+  {
+    "Id": 53020000,
+    "Name": "Explosive Greatbolt",
+    "Instructions": null
+  },
+  {
+    "Id": 52050000,
+    "Name": "Meteor Bolt",
+    "Instructions": null
+  }
+]
