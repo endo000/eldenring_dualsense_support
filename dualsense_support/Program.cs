@@ -1,14 +1,35 @@
 ﻿using dualsense_support;
 
-var client = new DsxUdpClient();
-var process = new EldenRingProcess();
+DsxUdpClient client;
+EldenRingProcess process;
+try
+{
+    client = new DsxUdpClient();
+    process = new EldenRingProcess();
+}
+catch (Exception e)
+{
+    Console.WriteLine(e);
+    return 1;
+}
+
 var packet = string.Empty;
 
 int[] oldPrimaryWep = { -1, -1 };
 
 while (true)
 {
-    var weapons = process.GetCurrentWeapons();
+    WeaponData[] weapons;
+    try
+    {
+        weapons = process.GetCurrentWeapons();
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine(e);
+        return 1;
+    }
+
     for (var i = 0; i < 2; i++)
     {
         if (oldPrimaryWep[i] != weapons[i].Id)

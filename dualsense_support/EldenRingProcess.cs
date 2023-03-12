@@ -36,8 +36,7 @@ public class EldenRingProcess
         var processes = Process.GetProcessesByName(ProcessName);
         if (processes.Length <= 0)
         {
-            Console.WriteLine("Can't open Elden Ring process. Is it running?");
-            Environment.Exit(1);
+            throw new Exception("Can't open Elden Ring process. Is it running?");
         }
 
         var process = processes[0];
@@ -50,6 +49,11 @@ public class EldenRingProcess
 
     private void ReadWeaponsDataFile()
     {
+        if (!File.Exists(FileName))
+        {
+            throw new Exception($"{FileName} doesn't exist.");
+        }
+
         var jsonString = File.ReadAllText(FileName);
         _weaponData = JsonSerializer.Deserialize<WeaponData[]>(jsonString) ?? throw new InvalidOperationException();
     }
@@ -60,8 +64,7 @@ public class EldenRingProcess
         if (!ReadProcessMemory(_hProcess, _processModule.BaseAddress, moduleMemory,
                 _processModule.ModuleMemorySize, out _))
         {
-            Console.WriteLine("Can't read main module. Exiting.");
-            Environment.Exit(1);
+            throw new Exception("Can't read main module.");
         }
 
         for (var i = 0; i < moduleMemory.Length; i++)
@@ -84,8 +87,7 @@ public class EldenRingProcess
         var buffer = new byte[8];
         if (!ReadProcessMemory(_hProcess, _gameDataManPointer, buffer, buffer.Length, out _))
         {
-            Console.WriteLine("Can't read GameDataMan address. Exiting.");
-            Environment.Exit(1);
+            throw new Exception("Can't read GameDataMan address.");
         }
 
         _gameDataMan = new nint(BitConverter.ToInt64(buffer, 0));
@@ -93,8 +95,7 @@ public class EldenRingProcess
         var primaryWepAddress = _gameDataMan + 0x08;
         if (!ReadProcessMemory(_hProcess, primaryWepAddress, buffer, buffer.Length, out _))
         {
-            Console.WriteLine("Can't read PrimaryWepPointer. Exiting.");
-            Environment.Exit(1);
+            throw new Exception("Can't read PrimaryWepPointer.");
         }
 
         _primaryWep = new nint(BitConverter.ToInt64(buffer, 0));
@@ -110,8 +111,7 @@ public class EldenRingProcess
             if (!ReadProcessMemory(_hProcess, baseAddress, buffer, buffer.Length,
                     out _))
             {
-                Console.WriteLine("Can't read current weapon. Exiting.");
-                Environment.Exit(1);
+                throw new Exception("Can't read current weapon.");
             }
 
             var weaponId = BitConverter.ToInt32(buffer, 0) / 10000 * 10000;
